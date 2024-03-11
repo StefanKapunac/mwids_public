@@ -1,0 +1,13 @@
+status, time, cost, gap, num_nodes_processed
+integer optimal solution,0.0324509143829346,7120,0,0
+integer optimal solution,0.0244390964508057,5348,0,0
+integer optimal solution,0.0371229648590088,5901,0,0
+integer optimal solution,0.0551779270172119,5049,0,0
+integer optimal solution,0.0302879810333252,5779,0,0
+integer optimal solution,0.0217938423156738,4503,0,0
+integer optimal solution,0.0206501483917236,4357,0,0
+integer optimal solution,0.0231719017028809,5483,0,0
+integer optimal solution,0.0202958583831787,7807,0,0
+integer optimal solution,0.021136999130249,5971,0,0
+,,,,
+,0.0286527633666992,5731.8,,
